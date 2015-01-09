@@ -6,6 +6,8 @@ import edu.wpi.first.wpilibj.RobotDrive;
 import edu.wpi.first.wpilibj.Joystick;
 import edu.wpi.first.wpilibj.Timer;
 
+/* Bogus. */
+
 /**
  * This is a demo program showing the use of the RobotDrive class, specifically it 
  * contains the code necessary to operate a robot with tank drive.
